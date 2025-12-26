@@ -1,0 +1,23 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+lib/forge-std/
+lib/openzeppelin-contracts/
+
+# Logs
+*.log
+
